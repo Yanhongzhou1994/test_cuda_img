@@ -1,0 +1,5 @@
+﻿  test_cuda_consle_2.cpp
+e:\vs2015_file\test_cuda_img_process\test_cuda_consle_2\hw.h(61): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\vs2015_file\test_cuda_img_process\test_cuda_consle_2\hw.h(61): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+  test_cuda_consle_2.vcxproj -> E:\VS2015_file\test_cuda_img_process\x64\Debug\test_cuda_consle_2.exe
+  test_cuda_consle_2.vcxproj -> E:\VS2015_file\test_cuda_img_process\x64\Debug\test_cuda_consle_2.pdb (Full PDB)
